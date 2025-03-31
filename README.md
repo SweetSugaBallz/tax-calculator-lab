@@ -1,2 +1,2 @@
-# lab-agile-planning
-This repository contains the lab for agile planning
+# tax-calculator-lab
+This repository contains the final project for cloud native coursera course
